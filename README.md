@@ -4,7 +4,7 @@ Thank you for taking interest in our web developer role. We are excited to see w
 
 ## Your Task
 
-We have a big website update and need a widget that will display products in an slider. We must have an cta to buy these products and be fully responsive. Unfortimtaely, this ask came late in the development circle and you only have an hour to get something pulled together.
+We have a big website update and need a widget that will display products in an slider. We must have the product name, price, category link, an call to action and the slider must be fully responsive. Unfortunately, this ask came late in the development circle and you only have an hour to get something pulled together.
 
 ## Guidelines
 
