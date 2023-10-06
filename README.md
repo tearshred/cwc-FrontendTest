@@ -12,7 +12,7 @@ We have a big website update and need a widget that will display products in an 
 
     - You may use the products.json for the api data or the fake store api.
 
-    - Think of this like an open source project. Fork this repo, use git for source control, and send us links to the repo and github pages for our review.
+    - Think of this like an open source project. Fork this repo, use git for source control, put a pull request in, and send us links to the repo and github pages for our review.
 
 ### Tools to help you achieve
 
