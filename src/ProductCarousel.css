@@ -1,0 +1,21 @@
+.slick-slide {
+    padding: 0 5px;
+}
+
+.slick-list {
+    margin: 0 -10px;
+}
+
+.slick-track {
+    display: flex !important;
+}
+
+.slick-slide {
+    height: inherit !important;
+    display: flex !important;
+}
+
+.slick-slide > div {
+    flex: 1;
+    display: flex;
+}
